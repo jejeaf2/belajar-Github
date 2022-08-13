@@ -19,9 +19,9 @@ ini adalah historical study ku di dicoding tentang belajar Git dan Github
 -belajar menyelesaikan conflict akibat dari penggabungan dua file yang isinya berbeda  
 
 ***13 Agustus 2022***   
--Belajar Squash changes
--Belajar Reset,Revert
--Belajar Network Graph dan Code Reviews
--Belajar Kolaborasi dengan tim
--Github sebagai Fortoflio
--Ujian Akhir
+-Belajar Squash changes  
+-Belajar Reset,Revert  
+-Belajar Network Graph dan Code Reviews  
+-Belajar Kolaborasi dengan tim  
+-Github sebagai Fortoflio  
+-Ujian Akhir  
